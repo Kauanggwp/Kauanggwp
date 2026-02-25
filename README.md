@@ -19,3 +19,5 @@ My name is Kauan, I`m a student. Currently sitting in São Paulo, BR.
 My main tech is Java.
 
 You can check some of my studies in my repositories.
+
+My main objetive is to improve and turn myself in a full-stack developer in a close future.
