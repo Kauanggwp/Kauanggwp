@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 <!--
 **Kauanggwp/Kauanggwp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Kauan, I`m a student. Currently sitting in São Paulo, BR.
+
+My main tech is Java.
+
+You can check some of my studies in my repositories.
