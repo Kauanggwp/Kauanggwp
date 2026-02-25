@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Kauan, I`m a student. Currently sitting in São Paulo, BR.
+My name is Kauan, I'm a student. Currently sitting in São Paulo, BR.
 
-My main tech is Java.
+My main tech is Java and I'm currently learning python.
 
 You can check some of my studies in my repositories.
 
 My main objetive is to improve and turn myself in a full-stack developer in a close future.
+
+You can reach me through my main email or my contact email (wich I prefer):
+contato.kauan1223@gmail.com
